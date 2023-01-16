@@ -1,0 +1,96 @@
+body{
+    background-color: #e8eef1c9;
+}
+
+
+
+/* section-2 */
+
+/* pick */
+.pick-content {}
+
+.pick-content a {
+    text-decoration: none;
+}
+.pick-content a h6 {
+    font-size: 13px;
+    color: white;
+}
+
+.pick-content a h5 {
+    font-size: 15px;
+    color: white;
+    font-weight: 700;
+}
+.pick-content span{
+    font-size: 10px;
+    color:grey;
+}
+.style-img img {
+    /* width: 100%; */
+    border-radius: 50%;
+}
+
+.style-content a {
+    text-decoration: none;
+}
+
+.style-content a h6 {
+    font-size: 13px;
+}
+
+.style-content a h5 {
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+}
+
+/* latest */
+.latest a{
+    text-decoration: none;
+}
+.latest h6 a {
+    font-size: 13px;
+}
+.latest h5 a {
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+}
+.latest p{
+    font-size: 12px;
+}
+.author img{
+    border-radius: 50%;
+
+}
+.latest .author span{
+    font-size: 10px;
+    color:grey;
+}
+
+.latest span a {
+    font-size: 13px;
+}
+
+/* living */
+.living a{
+    text-decoration: none;
+}
+.living-info h6 a {
+    font-size: 13px;
+}
+.living-info h5 a {
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+}
+.living-info span{
+    font-size: 12px;
+    color:grey;
+}
+
+
+
+
+

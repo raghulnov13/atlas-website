@@ -1,0 +1,45 @@
+@media (max-width:766px){
+    .pick-img img{
+        width: 100%;
+    }
+    .pick-content{
+        padding: 0;
+    }
+    .ra{
+        margin-top: 20px;
+    }
+}
+
+/* latest */
+@media (max-width:640px){
+    .latest .head img{
+        width: 100%;
+    }
+    
+}
+@media (min-width:651px) and (max-width:950px){
+    .latest .head img{
+        width: 100%;
+        
+    }
+    
+}
+
+/* living */
+@media (max-width:640px){
+    .living-img img{
+        width: 100%;
+    }
+    #li-hide{
+        display: none;
+    }
+    
+}
+@media (min-width:641px) and (max-width:950px){
+    .living-img img{
+        width: 100%;
+        
+    }
+    
+}
+
